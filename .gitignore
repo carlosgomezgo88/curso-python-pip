@@ -247,4 +247,7 @@ $RECYCLE.BIN/
 # No images
 *.png
 
+# No chached images
+*.pyc
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
